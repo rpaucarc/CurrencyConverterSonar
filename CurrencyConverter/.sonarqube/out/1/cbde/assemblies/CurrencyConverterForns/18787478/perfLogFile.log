@@ -1,0 +1,5 @@
+File name	Line	Function	Duration[ms]	Explored nodes
+E:\Doctorado\Semestre_2020\TopicosAvanzadosIngSoftware\codigo\repositorio\CurrencyConverter\CurrencyConverterForns\FrmCurrency.Designer.cs	28	_CurrencyConverterForms.FrmCurrency.InitializeComponent$$	0	3
+E:\Doctorado\Semestre_2020\TopicosAvanzadosIngSoftware\codigo\repositorio\CurrencyConverter\CurrencyConverterForns\FrmCurrency.cs	20	_CurrencyConverterForms.FrmCurrency.ConvertButton_Click$object.System.EventArgs$	0	3
+E:\Doctorado\Semestre_2020\TopicosAvanzadosIngSoftware\codigo\repositorio\CurrencyConverter\CurrencyConverterForns\FrmCurrency.cs	36	_CurrencyConverterForms.FrmCurrency.FrmCurrency_Load$object.System.EventArgs$	0	3
+E:\Doctorado\Semestre_2020\TopicosAvanzadosIngSoftware\codigo\repositorio\CurrencyConverter\CurrencyConverterForns\Program.cs	13	_CurrencyConverterForms.Program.Main$$	0	3

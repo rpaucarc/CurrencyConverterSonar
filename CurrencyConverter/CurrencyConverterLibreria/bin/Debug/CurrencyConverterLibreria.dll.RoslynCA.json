@@ -1,0 +1,419 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "3.6.0.0",
+        "fileVersion": "3.6.0-4.20251.5 (910223b6)",
+        "semanticVersion": "3.6.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Doctorado/Semestre_2020/TopicosAvanzadosIngSoftware/codigo/repositorio/CurrencyConverter/CurrencyConverterLibreria/ConvertibleCurrency.cs",
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Doctorado/Semestre_2020/TopicosAvanzadosIngSoftware/codigo/repositorio/CurrencyConverter/CurrencyConverterLibreria/ConvertibleCurrency.cs",
+                "region": {
+                  "startLine": 2,
+                  "startColumn": 1,
+                  "endLine": 2,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Doctorado/Semestre_2020/TopicosAvanzadosIngSoftware/codigo/repositorio/CurrencyConverter/CurrencyConverterLibreria/ConvertibleCurrency.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 1,
+                  "endLine": 3,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Doctorado/Semestre_2020/TopicosAvanzadosIngSoftware/codigo/repositorio/CurrencyConverter/CurrencyConverterLibreria/ConvertibleCurrency.cs",
+                "region": {
+                  "startLine": 4,
+                  "startColumn": 1,
+                  "endLine": 4,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Doctorado/Semestre_2020/TopicosAvanzadosIngSoftware/codigo/repositorio/CurrencyConverter/CurrencyConverterLibreria/ConvertibleCurrency.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 1,
+                  "endLine": 5,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Doctorado/Semestre_2020/TopicosAvanzadosIngSoftware/codigo/repositorio/CurrencyConverter/CurrencyConverterLibreria/Properties/AssemblyInfo.cs",
+                "region": {
+                  "startLine": 2,
+                  "startColumn": 1,
+                  "endLine": 2,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'amount' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Doctorado/Semestre_2020/TopicosAvanzadosIngSoftware/codigo/repositorio/CurrencyConverter/CurrencyConverterLibreria/ConvertibleCurrency.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 25,
+                  "endLine": 58,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'currency' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Doctorado/Semestre_2020/TopicosAvanzadosIngSoftware/codigo/repositorio/CurrencyConverter/CurrencyConverterLibreria/ConvertibleCurrency.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 30,
+                  "endLine": 59,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'PENCurrency' to match pascal case naming rules, consider using 'PenCurrency'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Doctorado/Semestre_2020/TopicosAvanzadosIngSoftware/codigo/repositorio/CurrencyConverter/CurrencyConverterLibreria/ConvertibleCurrency.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 18,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'USDCurrency' to match pascal case naming rules, consider using 'UsdCurrency'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Doctorado/Semestre_2020/TopicosAvanzadosIngSoftware/codigo/repositorio/CurrencyConverter/CurrencyConverterLibreria/ConvertibleCurrency.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 18,
+                  "endLine": 17,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'EURCurrency' to match pascal case naming rules, consider using 'EurCurrency'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Doctorado/Semestre_2020/TopicosAvanzadosIngSoftware/codigo/repositorio/CurrencyConverter/CurrencyConverterLibreria/ConvertibleCurrency.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 18,
+                  "endLine": 43,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1117",
+          "level": "warning",
+          "message": "Rename 'currency' which hides the field with the same name.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Doctorado/Semestre_2020/TopicosAvanzadosIngSoftware/codigo/repositorio/CurrencyConverter/CurrencyConverterLibreria/ConvertibleCurrency.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 33,
+                  "endLine": 70,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'converted'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Doctorado/Semestre_2020/TopicosAvanzadosIngSoftware/codigo/repositorio/CurrencyConverter/CurrencyConverterLibreria/ConvertibleCurrency.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 31,
+                  "endLine": 91,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'converted'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Doctorado/Semestre_2020/TopicosAvanzadosIngSoftware/codigo/repositorio/CurrencyConverter/CurrencyConverterLibreria/ConvertibleCurrency.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 31,
+                  "endLine": 84,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'converted'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Doctorado/Semestre_2020/TopicosAvanzadosIngSoftware/codigo/repositorio/CurrencyConverter/CurrencyConverterLibreria/ConvertibleCurrency.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 31,
+                  "endLine": 69,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently. This rule checks whether or not type names are using PascalCase. To reduce noise, two consecutive upper case characters are allowed unless they form the whole type name. So, MyXClass is compliant, but XC on its own is not.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1117": {
+          "id": "S1117",
+          "shortDescription": "Local variables should not shadow class fields",
+          "fullDescription": "Overriding or shadowing a variable declared in an outer scope can strongly impact the readability, and therefore the maintainability, of a piece of code. Further, it could lead maintainers to introduce bugs because they think they're using one variable but are really using another.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1117",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1128": {
+          "id": "S1128",
+          "shortDescription": "Unused \"using\" should be removed",
+          "fullDescription": "Although unnecessary using won't change anything to the produced application, removing them:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1128",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1854": {
+          "id": "S1854",
+          "shortDescription": "Unused assignments should be removed",
+          "fullDescription": "A dead store happens when a local variable is assigned a value that is not read by any subsequent instruction. Calculating or retrieving a value only to then overwrite it or throw it away, could indicate a serious error in the code. Even if it's not an error, it is at best a waste of resources. Therefore all calculated values should be used.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1854",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S2933": {
+          "id": "S2933",
+          "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
+          "fullDescription": "readonly fields can only be assigned in a class constructor. If a class has a field that's not marked readonly but is only set in the constructor, it could cause confusion about the field's intended use. To avoid confusion, such fields should be marked readonly to make their intended use explicit, and to prevent future maintainers from inadvertently changing their use.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2933",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

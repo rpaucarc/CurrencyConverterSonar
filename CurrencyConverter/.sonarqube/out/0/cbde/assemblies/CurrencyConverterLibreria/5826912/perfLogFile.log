@@ -1,0 +1,8 @@
+File name	Line	Function	Duration[ms]	Explored nodes
+E:\Doctorado\Semestre_2020\TopicosAvanzadosIngSoftware\codigo\repositorio\CurrencyConverter\CurrencyConverterLibreria\ConvertibleCurrency.cs	23	_CurrencyConverterLibreria.USDCurrency.ToString$$	0	2
+E:\Doctorado\Semestre_2020\TopicosAvanzadosIngSoftware\codigo\repositorio\CurrencyConverter\CurrencyConverterLibreria\ConvertibleCurrency.cs	36	_CurrencyConverterLibreria.PENCurrency.ToString$$	0	2
+E:\Doctorado\Semestre_2020\TopicosAvanzadosIngSoftware\codigo\repositorio\CurrencyConverter\CurrencyConverterLibreria\ConvertibleCurrency.cs	49	_CurrencyConverterLibreria.EURCurrency.ToString$$	0	2
+E:\Doctorado\Semestre_2020\TopicosAvanzadosIngSoftware\codigo\repositorio\CurrencyConverter\CurrencyConverterLibreria\ConvertibleCurrency.cs	65	_CurrencyConverterLibreria.ConvertibleCurrency.CurrencyConvert$decimal.CurrencyConverterLibreria.BaseCurrency.CurrencyConverterLibreria.BaseCurrency$	0	2
+E:\Doctorado\Semestre_2020\TopicosAvanzadosIngSoftware\codigo\repositorio\CurrencyConverter\CurrencyConverterLibreria\ConvertibleCurrency.cs	74	_CurrencyConverterLibreria.ConvertibleCurrency.ConvertTo$CurrencyConverterLibreria.BaseCurrency$	0	2
+E:\Doctorado\Semestre_2020\TopicosAvanzadosIngSoftware\codigo\repositorio\CurrencyConverter\CurrencyConverterLibreria\ConvertibleCurrency.cs	81	_CurrencyConverterLibreria.ConvertibleCurrency.ConvertToUS$$	0	2
+E:\Doctorado\Semestre_2020\TopicosAvanzadosIngSoftware\codigo\repositorio\CurrencyConverter\CurrencyConverterLibreria\ConvertibleCurrency.cs	88	_CurrencyConverterLibreria.ConvertibleCurrency.ConvertFromUS$CurrencyConverterLibreria.BaseCurrency.decimal$	0	2
